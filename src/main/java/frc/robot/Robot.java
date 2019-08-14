@@ -57,13 +57,6 @@ public class Robot extends TimedRobot {
         m_ds.InDisabled(true);
     }
 
-    /**
-     * This function is called periodically during autonomous.
-     */
-    @Override
-    public void autonomousPeriodic() {
-    }
-
     @Override
     public void teleopInit() {
         // This makes sure that the autonomous stops running when
