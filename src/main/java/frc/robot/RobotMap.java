@@ -16,5 +16,5 @@ package frc.robot;
  * Contains port finals
  */
 public class RobotMap {
-  
+
 }
